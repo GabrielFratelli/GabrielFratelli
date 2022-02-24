@@ -1,4 +1,4 @@
-## <i>E aí!!  Eu sou Gabriel Fratelli, Amante da Tecnologia.<i> 😜
+## <i>E aí!!  Eu sou Gabriel Fratelli, Estudante de Análise e Desenvolvimento de Sistemas.<i> 😜
 
 <div align="center">
   <a href="https://github.com/GabrielFratelli">
