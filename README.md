@@ -1,4 +1,4 @@
-## <i>E aí!!  Eu sou Gabriel Fratelli, Seja Muito Bem-Vindo.<i> 👨‍💻
+## <i>What's up!! I'm Gabriel Fratelli, Welcome..<i> 👨‍💻
 
 <div align="center">
   <a href="https://github.com/GabrielFratelli">
