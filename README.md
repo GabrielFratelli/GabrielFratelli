@@ -1,6 +1,21 @@
-## <i>Welcome to my Developer Profile.<i> 👨‍💻 
+# Hey there, I'm Fratelli  👨‍💻 
+
+Here on my GitHub profile you can see all my projects.
+
+</br>
+
+💻 &nbsp; <i>Front-end Developer at PicPay</i>
+
+🎓 &nbsp; <i>I'm doing a degree in Systems Analysis and Development</i>
+
+🏆 &nbsp; <i>Skills: HTML5, CSS3, Sass, Less, Styled-Components, JaVaScript, TypeScript, React, Design System, Storybook, GIT, GIT Kraken</i>
+
+📚 &nbsp; <i>I'm learning: React Native, Axios API and studying more about JavaScript and TypeScript, I'm interested in NodeJS, Swift, Kotlin</i>
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFratelli&layout=compact)](https://github.com/GabrielFratelli/github-readme-stats)
+
 <div style="display: inline_block"><br>
-  <i><b>Hard Skills:<b><i>
   <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
