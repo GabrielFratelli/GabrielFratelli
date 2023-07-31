@@ -8,7 +8,7 @@ Here on my GitHub profile you can see all my projects.
 
 🎓 &nbsp; <i>I'm doing a degree in Systems Analysis and Development</i>
 
-🏆 &nbsp; <i>Skills: HTML5, CSS3, Sass, Less, Styled-Components, JavaScript, TypeScript, ReactJs, Design System, Storybook, GIT, GIT Kraken, CLI</i>
+🏆 &nbsp; <i>Skills: HTML5, CSS3, Sass, Less, Styled-Components, JavaScript, TypeScript, ReactJs, NextJs, Design System, Storybook, GIT, GIT Kraken, CLI</i>
 
 📚 &nbsp; <i>I'm learning: React Native, Axios API and studying more about JavaScript and TypeScript, I'm interested in NodeJS, Swift, Kotlin</i>
 
