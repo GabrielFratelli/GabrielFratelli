@@ -4,7 +4,7 @@ Here on my GitHub profile you can see all my projects.
 
 </br>
 
-💻 &nbsp; <i>Frontend Developer at PicPay Invest DTVM</i>
+💻 &nbsp; <i>React Developer at PicPay</i>
 
 🎓 &nbsp; <i>I'm doing a degree in Systems Analysis and Development</i>
 
