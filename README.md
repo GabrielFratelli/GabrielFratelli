@@ -32,5 +32,7 @@ Here on my GitHub profile you can see all my projects.
 ##
   <h5>You can find me here:</h5>
 <div>
-   <a href="mailto:gabriel.fratelli99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-   <a href="https://www.linkedin.com/in/gabriel-fratelli-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <a href="mailto:gabriel.fratelli99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+   <a href="https://www.linkedin.com/in/gabriel-fratelli-cassiano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+</div>
+
