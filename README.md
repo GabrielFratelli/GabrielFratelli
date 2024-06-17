@@ -8,7 +8,7 @@ Here on my GitHub profile you can see all my projects.
 
 🎓 &nbsp; <i>I'm doing a degree in Systems Analysis and Development</i>
 
-🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, ReactJs, NextJs, Api Rest, Axios, Design System, Storybook, GIT, GIT Kraken</i>
+🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, GIT, GIT Kraken</i>
 
 📚 &nbsp; <i>I'm learning: API Rest, NextJs, Axios API and studying more about JavaScript and TypeScript, I'm interested in NodeJS, Swift, Kotlin</i>
 
@@ -22,8 +22,9 @@ Here on my GitHub profile you can see all my projects.
   <img align="center" alt="Ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Tailwind Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="ReactJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="NextJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Nextjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Storybook" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
   <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
