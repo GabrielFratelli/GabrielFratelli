@@ -4,13 +4,13 @@ Here on my GitHub profile you can see all my projects.
 
 </br>
 
-💻 &nbsp; <i>React Developer at PicPay</i>
+💻 &nbsp; <i>Frontend Software Engineer at PicPay</i>
 
 🎓 &nbsp; <i>I'm doing a degree in Systems Analysis and Development</i>
 
-🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, GIT, GIT Kraken</i>
+🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, Git Git Kraken</i>
 
-📚 &nbsp; <i>I'm learning: API Rest, NextJs, Axios API and studying more about JavaScript and TypeScript, I'm interested in NodeJS, Swift, Kotlin</i>
+📚 &nbsp; <i>I'm learning: API Rest, Next.js, Axios API and studying more about JavaScript and TypeScript, I'm interested in Node.js, Swift, Angular, AWS..</i>
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFratelli&layout=compact)](https://github.com/GabrielFratelli/github-readme-stats)
