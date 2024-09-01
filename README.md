@@ -12,7 +12,7 @@ Here on my GitHub profile you can see all my projects.
 
 🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, Git Git Kraken</i>
 
-📚 &nbsp; <i>I'm learning: API Rest, Next.js, Axios API and studying more about Angular, JavaScript and TypeScript, I'm interested in Node.js, Swift, Java, AWS..</i>
+📚 &nbsp; <i>I'm learning: Angular, JavaScript and TypeScript, I'm interested in Backend: Node.js, Java and AWS.</i>
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFratelli&layout=compact)](https://github.com/GabrielFratelli/github-readme-stats)
