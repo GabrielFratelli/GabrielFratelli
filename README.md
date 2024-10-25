@@ -10,7 +10,7 @@ Here on my GitHub profile you can see all my projects.
 
 🎓 &nbsp; <i>English Student at Cultura Inglesa</i>
 
-🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, Git Git Kraken</i>
+🏆 &nbsp; <i>Skills: Html5, Css3, Sass, Less, Tailwind Css, Styled-Components, JavaScript, TypeScript, Testing Library Jest, React, Next.js, Angular, Api Rest, Axios, Design System, Storybook, Git e Git Kraken</i>
 
 📚 &nbsp; <i>I'm learning: Angular, JavaScript and TypeScript, I'm interested in Backend: Node.js, Java and AWS.</i>
 
