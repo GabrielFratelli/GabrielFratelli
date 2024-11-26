@@ -4,7 +4,7 @@ Here on my GitHub profile you can see all my projects.
 
 </br>
 
-💻 &nbsp; <i>Frontend Software Engineer at PicPay</i>
+💻 &nbsp; <i>Software Engineer focused on Frontend</i>
 
 🎓 &nbsp; <i>Systems Analysis and Development at Universidade Cidade de São Paulo</i>
 
