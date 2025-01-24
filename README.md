@@ -1,4 +1,4 @@
-# Hey there, I'm Fratelli  👨‍💻 
+# Fratelli  👨‍💻 
 
 Here on my GitHub profile you can see all my projects.
 
